@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/lenevo/Desktop/project_mlflow/mlflow_demo/../mlruns/241989303604661668/54328de947f849668da7a2c238542a2a/artifacts
+end_time: 1774962773813
+entry_point_name: ''
+experiment_id: '241989303604661668'
+lifecycle_stage: active
+run_id: 54328de947f849668da7a2c238542a2a
+run_name: whimsical-mouse-429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774962765202
+status: 3
+tags: []
+user_id: lenevo
