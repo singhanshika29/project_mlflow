@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/lenevo/Desktop/project_mlflow/mlflow_demo/mlruns/446224206668921801/52289350a0d84095a2d2c68457b43203/artifacts
+end_time: 1774972862303
+entry_point_name: ''
+experiment_id: '446224206668921801'
+lifecycle_stage: active
+run_id: 52289350a0d84095a2d2c68457b43203
+run_name: shivering-sponge-138
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774972852064
+status: 3
+tags: []
+user_id: lenevo

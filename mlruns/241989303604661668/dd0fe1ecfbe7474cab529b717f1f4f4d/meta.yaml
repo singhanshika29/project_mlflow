@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/lenevo/Desktop/project_mlflow/mlflow_demo/../mlruns/241989303604661668/dd0fe1ecfbe7474cab529b717f1f4f4d/artifacts
+end_time: 1774972460182
+entry_point_name: ''
+experiment_id: '241989303604661668'
+lifecycle_stage: active
+run_id: dd0fe1ecfbe7474cab529b717f1f4f4d
+run_name: upbeat-squirrel-170
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774972445611
+status: 3
+tags: []
+user_id: lenevo

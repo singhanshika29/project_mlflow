@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/lenevo/Desktop/project_mlflow/mlflow_demo/mlruns/446224206668921801/028d361addba4467b43835c42240dab3/artifacts
+end_time: 1774972621017
+entry_point_name: ''
+experiment_id: '446224206668921801'
+lifecycle_stage: active
+run_id: 028d361addba4467b43835c42240dab3
+run_name: enchanting-carp-145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774972609107
+status: 3
+tags: []
+user_id: lenevo

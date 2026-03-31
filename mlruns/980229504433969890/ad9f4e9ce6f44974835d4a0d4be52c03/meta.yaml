@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/lenevo/Desktop/project_mlflow/mlflow_demo/../mlruns/980229504433969890/ad9f4e9ce6f44974835d4a0d4be52c03/artifacts
+end_time: 1774972445110
+entry_point_name: ''
+experiment_id: '980229504433969890'
+lifecycle_stage: active
+run_id: ad9f4e9ce6f44974835d4a0d4be52c03
+run_name: polite-crab-281
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774972444686
+status: 3
+tags: []
+user_id: lenevo

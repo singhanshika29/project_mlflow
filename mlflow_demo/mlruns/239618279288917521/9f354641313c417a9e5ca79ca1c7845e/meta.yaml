@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/lenevo/Desktop/project_mlflow/mlflow_demo/mlruns/239618279288917521/9f354641313c417a9e5ca79ca1c7845e/artifacts
+end_time: 1774972608560
+entry_point_name: ''
+experiment_id: '239618279288917521'
+lifecycle_stage: active
+run_id: 9f354641313c417a9e5ca79ca1c7845e
+run_name: whimsical-sow-9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774972608129
+status: 3
+tags: []
+user_id: lenevo
