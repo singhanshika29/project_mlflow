@@ -1,0 +1,7 @@
+artifact_location: file:///c:/Users/lenevo/Desktop/project_mlflow/mlflow_demo/mlruns/376775312831826603
+creation_time: 1774975992092
+experiment_id: '376775312831826603'
+last_update_time: 1774975992092
+lifecycle_stage: active
+name: diabetes_rf_experiment
+workspace: default
