@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/lenevo/Desktop/project_mlflow/mlflow_demo/../mlruns/241989303604661668/fa8ba9f0e8b34baeac942d4dfcefdf8e/artifacts
+end_time: 1774967742645
+entry_point_name: ''
+experiment_id: '241989303604661668'
+lifecycle_stage: active
+run_id: fa8ba9f0e8b34baeac942d4dfcefdf8e
+run_name: mysterious-ox-101
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774967732805
+status: 3
+tags: []
+user_id: lenevo
