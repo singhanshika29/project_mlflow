@@ -1,7 +1,0 @@
-artifact_location: file:///c:/Users/lenevo/Desktop/project_mlflow/mlflow_demo/mlruns/164147428077967326
-creation_time: 1774975745188
-experiment_id: '164147428077967326'
-last_update_time: 1774975745188
-lifecycle_stage: active
-name: check_run
-workspace: default
