@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/lenevo/Desktop/project_mlflow/mlflow_demo/../mlruns/980229504433969890/6742f3d18180403598b234914914933c/artifacts
+end_time: 1774971854911
+entry_point_name: ''
+experiment_id: '980229504433969890'
+lifecycle_stage: active
+run_id: 6742f3d18180403598b234914914933c
+run_name: peaceful-cub-750
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774971854406
+status: 3
+tags: []
+user_id: lenevo
