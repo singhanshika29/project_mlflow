@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/lenevo/Desktop/project_mlflow/mlflow_demo/mlruns/459934803976132353/68ef0dab49ff4102876aa7732ea6e217/artifacts
+end_time: 1775115590270
+entry_point_name: ''
+experiment_id: '459934803976132353'
+lifecycle_stage: active
+run_id: 68ef0dab49ff4102876aa7732ea6e217
+run_name: unleashed-deer-349
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775115580537
+status: 3
+tags: []
+user_id: lenevo

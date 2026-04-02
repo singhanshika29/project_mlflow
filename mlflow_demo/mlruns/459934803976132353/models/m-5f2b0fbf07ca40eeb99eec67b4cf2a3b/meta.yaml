@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/lenevo/Desktop/project_mlflow/mlflow_demo/mlruns/459934803976132353/models/m-5f2b0fbf07ca40eeb99eec67b4cf2a3b/artifacts
+creation_timestamp: 1775116114197
+experiment_id: '459934803976132353'
+last_updated_timestamp: 1775116123459
+model_id: m-5f2b0fbf07ca40eeb99eec67b4cf2a3b
+model_type: null
+name: xgb_model
+source_run_id: 319324aa03e1428486baf242f1068d93
+status: 2
+status_message: null

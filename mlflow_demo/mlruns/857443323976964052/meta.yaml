@@ -1,0 +1,7 @@
+artifact_location: file:///c:/Users/lenevo/Desktop/project_mlflow/mlflow_demo/mlruns/857443323976964052
+creation_time: 1775115102205
+experiment_id: '857443323976964052'
+last_update_time: 1775115102205
+lifecycle_stage: active
+name: heart_disease_rf
+workspace: default

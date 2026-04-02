@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/lenevo/Desktop/project_mlflow/mlflow_demo/mlruns/488170537166517002/models/m-4c700a47fd6549528d80f3fd84e135af/artifacts
+creation_timestamp: 1775116004106
+experiment_id: '488170537166517002'
+last_updated_timestamp: 1775116013547
+model_id: m-4c700a47fd6549528d80f3fd84e135af
+model_type: null
+name: model
+source_run_id: null
+status: 2
+status_message: null

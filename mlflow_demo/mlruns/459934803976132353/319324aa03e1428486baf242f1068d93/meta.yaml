@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/lenevo/Desktop/project_mlflow/mlflow_demo/mlruns/459934803976132353/319324aa03e1428486baf242f1068d93/artifacts
+end_time: 1775116123530
+entry_point_name: ''
+experiment_id: '459934803976132353'
+lifecycle_stage: active
+run_id: 319324aa03e1428486baf242f1068d93
+run_name: clean-roo-623
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775116113884
+status: 3
+tags: []
+user_id: lenevo
