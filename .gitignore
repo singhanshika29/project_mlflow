@@ -1,1 +1,7 @@
 /data
+mlruns/
+*.db
+__pycache__/
+.ipynb_checkpoints/
+mlruns/
+mlflow.db
