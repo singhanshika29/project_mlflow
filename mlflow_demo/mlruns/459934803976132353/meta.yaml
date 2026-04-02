@@ -1,7 +1,0 @@
-artifact_location: file:///c:/Users/lenevo/Desktop/project_mlflow/mlflow_demo/mlruns/459934803976132353
-creation_time: 1775115495197
-experiment_id: '459934803976132353'
-last_update_time: 1775115495197
-lifecycle_stage: active
-name: diabetes_xgboost
-workspace: default

@@ -1,7 +1,0 @@
-artifact_location: file:///c:/Users/lenevo/Desktop/project_mlflow/mlflow_demo/mlruns/246146510408187972
-creation_time: 1775115277887
-experiment_id: '246146510408187972'
-last_update_time: 1775115277887
-lifecycle_stage: active
-name: heart_disease_xgboost
-workspace: default
