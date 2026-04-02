@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/lenevo/Desktop/project_mlflow/mlflow_demo/mlruns/459934803976132353/b65d401958334012a2765746e6562b04/artifacts
+end_time: 1775115577027
+entry_point_name: ''
+experiment_id: '459934803976132353'
+lifecycle_stage: active
+run_id: b65d401958334012a2765746e6562b04
+run_name: nervous-chimp-636
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775115568280
+status: 4
+tags: []
+user_id: lenevo

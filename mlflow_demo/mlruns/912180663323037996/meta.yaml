@@ -1,0 +1,7 @@
+artifact_location: file:///c:/Users/lenevo/Desktop/project_mlflow/mlflow_demo/mlruns/912180663323037996
+creation_time: 1775114795922
+experiment_id: '912180663323037996'
+last_update_time: 1775114795922
+lifecycle_stage: active
+name: xgboost_run
+workspace: default

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/lenevo/Desktop/project_mlflow/mlflow_demo/mlruns/488170537166517002/4993643c0d1a46ee988e0ad1afaf0c7f/artifacts
+end_time: 1775114965372
+entry_point_name: ''
+experiment_id: '488170537166517002'
+lifecycle_stage: active
+run_id: 4993643c0d1a46ee988e0ad1afaf0c7f
+run_name: adaptable-roo-649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775114951885
+status: 3
+tags: []
+user_id: lenevo
