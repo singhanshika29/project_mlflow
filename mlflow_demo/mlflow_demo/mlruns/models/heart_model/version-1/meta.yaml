@@ -1,0 +1,16 @@
+creation_timestamp: 1775117820255
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1775117820255
+model_id: m-1d47c3ca5eae4040aac0dd3f7b21c3a2
+name: heart_model
+run_id: 46c4413148f0467f867dd68e8df6e04b
+run_link: ''
+source: models:/m-1d47c3ca5eae4040aac0dd3f7b21c3a2
+status: READY
+status_message: null
+storage_location: file:///c:/Users/lenevo/Desktop/project_mlflow/mlflow_demo/mlflow_demo/mlruns/582217024011316032/models/m-1d47c3ca5eae4040aac0dd3f7b21c3a2/artifacts
+user_id: null
+version: 1
+workspace: default
