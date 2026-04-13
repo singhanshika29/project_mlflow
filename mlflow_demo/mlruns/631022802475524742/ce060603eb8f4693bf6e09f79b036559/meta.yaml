@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/lenevo/Desktop/project_mlflow/mlflow_demo/mlflow_demo/mlruns/631022802475524742/ce060603eb8f4693bf6e09f79b036559/artifacts
+end_time: 1775136927615
+entry_point_name: ''
+experiment_id: '631022802475524742'
+lifecycle_stage: active
+run_id: ce060603eb8f4693bf6e09f79b036559
+run_name: crawling-snail-473
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775136907971
+status: 3
+tags: []
+user_id: lenevo

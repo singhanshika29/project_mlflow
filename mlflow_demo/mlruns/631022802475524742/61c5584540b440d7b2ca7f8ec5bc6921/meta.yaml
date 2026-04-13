@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/lenevo/Desktop/project_mlflow/mlflow_demo/mlflow_demo/mlruns/631022802475524742/61c5584540b440d7b2ca7f8ec5bc6921/artifacts
+end_time: 1775136487558
+entry_point_name: ''
+experiment_id: '631022802475524742'
+lifecycle_stage: active
+run_id: 61c5584540b440d7b2ca7f8ec5bc6921
+run_name: skillful-owl-861
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775136473031
+status: 3
+tags: []
+user_id: lenevo

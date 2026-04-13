@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/lenevo/Desktop/project_mlflow/mlflow_demo/mlflow_demo/mlruns/631022802475524742/fd4ae085200449e7b23192aa1ddd1ed2/artifacts
+end_time: 1775136660388
+entry_point_name: ''
+experiment_id: '631022802475524742'
+lifecycle_stage: active
+run_id: fd4ae085200449e7b23192aa1ddd1ed2
+run_name: rare-skunk-302
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775136643438
+status: 3
+tags: []
+user_id: lenevo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/lenevo/Desktop/project_mlflow/mlflow_demo/mlflow_demo/mlruns/631022802475524742/9118ecfd54fd41628414b00d71764914/artifacts
+end_time: 1775136660791
+entry_point_name: ''
+experiment_id: '631022802475524742'
+lifecycle_stage: active
+run_id: 9118ecfd54fd41628414b00d71764914
+run_name: nosy-bear-487
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775136660480
+status: 3
+tags: []
+user_id: lenevo
